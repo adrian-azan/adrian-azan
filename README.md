@@ -6,7 +6,7 @@ I'm a Software Engineer with a passion for game development and teaching.
 - 💬 Ask me about: Art that I own! For the first time in my life I live near a popular convention center and I am taking complete advantage. I buy a lot of nerdy posters, paintings, portraits, I even have a few 3D pieces. I take a photoshoot after a convention and love sharing them with people
 - ⚡ Fun fact: I have a world record run for [Antz Extreme Racing (GBA)](https://www.youtube.com/watch?v=CGz7kTy21qg) I stole this record to create a rivalry with a friend. I'll die with this record
 
-
+If your looking for a more standard overview of my work history, checkout my [LinkedIn](https://www.linkedin.com/in/adrian-azan/) or my [personal website](https://www.adrian-azan.com/). Heck if you're lookin to read dozens of people talking about how I'm the best, look no further then my [tutoring page](https://www.wyzant.com/Tutors/AdrianMA)
 ## Teaching
 My first experience teaching computer science was with [iD Tech](https://www.idtech.com/), first as a summer instructor, and then a lead instrutor the following year. I taught campers from 13-18 in python, java, and c++. Not to brag, but I was dang darn good at instructing. So good in fact that I decided to continue into the school year. I signed up as a remote instructor with [Wyzant](https://www.wyzant.com/) my sophmore year, tutoring highschool and college students for the next 5 years.
 
