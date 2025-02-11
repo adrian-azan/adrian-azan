@@ -20,7 +20,18 @@ My other students simply needed additional explanation. My busiest subject by le
 ## Game Development
 I'm bad at this! 🤣 I've really only just begun my dev journey and I hit plenty of roadbumps. At first I played around with several game engines, GameMaker Studio, then Godot, then Unity, then Unity did their really crummy licenscing, and back to Godot for version 4 😵 Each time needing to relearn simple aspects that I had forgotten and or needed to do a bit differently. I've often struggled with making sure rigidbody works properly with its object family. To be honest since these are passion projects I often follow that passion where ever it goes. I often think of a feature I want to try and replicate, and once I get a bare bones MVP I move onto a new feature.
 
-I am officially enjoying Godot and have worked out general flows for making and importing models/textures, have simple Node Trees for basic ojects. I'm hoping to start pushing more polished final projects 🤙
+I am officially enjoying Godot and have worked out general flows for making and importing models/textures. I have a few personal projects that I would encourage you to explore my PR's for. Here are a few of the more significant changes to my larger projects.
+
+
+| [Artlopedia](https://github.com/users/adrian-azan/projects/1) | [Lethal Mines](https://github.com/adrian-azan/Lethal-Mines) |
+| ----- | -----|
+| [Init and UI Design](https://github.com/adrian-azan/Artlopedia/pull/1) | [Picking up items and UI Decisions](https://github.com/adrian-azan/Lethal-Mines/pull/5) |
+
+| [Camera Pan](https://github.com/adrian-azan/Artlopedia/pull/2) | [Interacting with Stations](https://github.com/adrian-azan/Lethal-Mines/pull/6) |
+
+| [AWS Integration](https://github.com/adrian-azan/Artlopedia/pull/5) | [Your base](https://github.com/adrian-azan/Lethal-Mines/pull/7) |
+
+| [Editing Art Details](https://github.com/adrian-azan/Artlopedia/pull/8) | [Map Generation Wiki](https://github.com/adrian-azan/Lethal-Mines/wiki/Map-Generation#mirroring)
 
 ## Work
 Yup, I do big important company work too. I am a software engineer, and my most recent work was with EBSCO Information Services. A "leading provider of research databases, e-journal and e-package subscription management, book collection development and acquisition management, and a major provider of library technology, e-books, and clinical decision solutions for universities, colleges, hospitals, corporations, government, K12 schools, and public libraries worldwide." 😮‍💨. I worked on one of the teams focusing on authentication and authorization 🔐. Massive props and applause to my team and the devs who hired me. I knew a bare MINIMUM in this field, but they assured me they were looking to mentor new devs into this role. AND THEY ACTUALLY DID. We've all heard and experienced the horrifically classic scenario of your company "training" new hires, only to throw them into the lurch with no support. I actually had some amazing timing earning this position because it was right when their entire framework was going to update from RefArch 1.0 to 1.5. So my first 6 months involved replicating already existing microservices, learning how to use the new monitoring tools and such along with Senior Devs, and executing "the flip" from using the old services to the new services once configurations were in place. It was a HUGE amount of work and coordination, and honestly looking back, I was very proud that we managed it all considering my team was 2 Senior Devs and then 3 BRAND NEW Junior Devs. While a lot of the learning involved EBSCO's internal tool set (microservice cookie cutters, pipeline infrastructure, in-house testing tools, in-house management tools, etc.), I did learn a significant amount about our external services too (AWS, Auth0, Grafana, Sumo logic).
